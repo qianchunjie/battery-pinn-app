@@ -20,4 +20,4 @@ streamlit run battery_app.py
 - Plotly / Matplotlib
 
 ##网址
-https://qcj-battery-pinn-app.streamlit.app/
+- https://qcj-battery-pinn-app.streamlit.app/
