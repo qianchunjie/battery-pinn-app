@@ -18,3 +18,6 @@ streamlit run battery_app.py
 - Streamlit
 - PyTorch
 - Plotly / Matplotlib
+
+##网址
+https://qcj-battery-pinn-app.streamlit.app/
